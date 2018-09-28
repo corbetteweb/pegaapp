@@ -1,0 +1,83 @@
+[
+	{	
+		"id": 1,
+		"time":"12:00pm", 
+		"eventTitle":"Check-in & Registration", 
+		"description":"Travel to PegaWORLD - Registration", 
+		"location": "Marriot Orlando",
+		"category":"Travel",
+		"track": [1, 2]
+	},
+	{	
+		"id": 2,
+		"time":"1:00pm - 1:30pm", 
+		"eventTitle":"Opening Remarks", 
+		"description":"", 
+		"location": "Room J1",
+		"category":"default",
+		"track": [1, 2]
+	},
+	{	
+		"id": 3,
+		"time":"1:30pm - 3:00pm", 
+		"eventTitle":"Strategic Applications and Competitive Intelligence", 
+		"description":"", 
+		"location": "Room J1",
+		"category":"default",
+		"track": [1, 2]
+	},
+	{	
+		"id": 4,
+		"time":"3:00pm - 3:30pm", 
+		"eventTitle":"Break", 
+		"description":"", 
+		"location": "",
+		"category":"Breaks",
+		"track": [1, 2]
+	},
+	{	
+		"id": 5,
+		"time":"3:30pm - 4:30pm", 
+		"eventTitle":"Customer Centricity & Consulting", 
+		"description":"Customer Panel", 
+		"location": "Room J1",
+		"category":"Customer",
+		"track": [1, 2]
+	},
+	{	
+		"id": 6,
+		"time":"4:30 pm - 5:15pm", 
+		"eventTitle":"Customer Centricity & Consulting", 
+		"description":"Key Messages", 
+		"location": "Room J1",
+		"category":"Customer",
+		"track": [1, 2]
+	},
+	{	
+		"id": 7,
+		"time":"5:15pm - 5:45pm", 
+		"eventTitle":"Customer Experience", 
+		"description":"Don't Blow it!", 
+		"location": "Room J1",
+		"category":"Customer",
+		"track": [1, 2]
+	},
+	{	
+		"id": 8,
+		"time":"30 minutes", 
+		"eventTitle":"Travel Busses from Marriot", 
+		"description":"Registration for PegaWORLD", 
+		"location": "Room J1",
+		"category":"Travel",
+		"track": [1, 2]
+	},
+	{	
+		"id": 9,
+		"time":"6:30pm", 
+		"eventTitle":"PegaWORLD", 
+		"description":"Reception & Dinner", 
+		"location": "",
+		"category":"PegaWORLD",
+		"track": [1, 2]
+	}
+]

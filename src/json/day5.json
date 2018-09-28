@@ -1,0 +1,74 @@
+[
+	{
+		"id": 1,
+		"time":"7:00am - 8:00am", 
+		"eventTitle":"Breakfast", 
+		"description":"", 
+		"location": "",
+		"category":"Breaks",
+		"track": [1, 2]
+	},
+	{
+		"id": 2,
+		"time":"8:15am - 10:15am", 
+		"eventTitle":"Customer Centricity", 
+		"description":"Breakouts", 
+		"location": "Room J1",
+		"category":"Customer",
+		"track": [1, 2]
+	},
+	{
+		"id": 3,
+		"time":"10:15am - 10:45am", 
+		"eventTitle":"Break", 
+		"description":"", 
+		"location": "",
+		"category":"Breaks",
+		"track": [1, 2]
+	},
+	{
+		"id": 4,
+		"time":"10:45pm - 12:45pm", 
+		"eventTitle":"Customer Centricity", 
+		"description":"Breakouts", 
+		"location": "Room J1",
+		"category":"Customer",
+		"track": [1, 2]
+	},
+	{
+		"id": 5,
+		"time":"12:45pm - 1:45pm", 
+		"eventTitle":"Customer Centricity", 
+		"description":"", 
+		"location": "Room J1",
+		"category":"Customer",
+		"track": [1, 2]
+	},
+	{
+		"id": 6,
+		"time":"1:45pm - 2:30pm", 
+		"eventTitle":"Customer Centricity", 
+		"description":"Action Planning Debrief", 
+		"location": "Room J1",
+		"category":"default",
+		"track": [1, 2]
+	},
+	{
+		"id": 7,
+		"time":"2:30pm - 2:45pm", 
+		"eventTitle":"Closing Remarks", 
+		"description":"", 
+		"location": "Room J1",
+		"category":"default",
+		"track": [1, 2]
+	},
+	{
+		"id": 8,
+		"time":"3:00pm - ", 
+		"eventTitle":"Travel from PegaWORLD", 
+		"description":"Bus service to airport", 
+		"location": "",
+		"category":"Travel",
+		"track": [1, 2]
+	}
+]

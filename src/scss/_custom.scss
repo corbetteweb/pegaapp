@@ -1,0 +1,37 @@
+.track-2 {
+	background-color: #C3E6E6;
+	mark {
+		background-color: #ffffff;
+	}
+}
+mark{
+	border-radius: 10%;
+}
+@media (max-width:1024px){
+	.nav-link.text-white:last-child {
+		display: none !important;
+	}
+}
+.nav-scroller {
+	top:57px !important;
+	}
+.subhead-mark, .subhead-mark2,.subhead-mark3,.subhead-mark4 {
+	height: 49px;
+    display: inline-block;
+    position: absolute;
+    top: 104px;
+    left: 124px;
+    border-radius: 0;
+}
+.subhead-mark2 {
+	left: 124px;
+}
+.subhead-mark2 {
+	left: 166px;
+}
+.subhead-mark3 {
+	left: 170px;
+}
+.subhead-mark4 {
+	left: 216px;
+}

@@ -1,0 +1,20 @@
+[
+	{
+		"id": 1,
+		"time":"8:00am", 
+		"eventTitle":"PegaWORLD", 
+		"description":"", 
+		"location": "",
+		"category":"PegaWORLD",
+		"track": [1, 2]
+	},
+	{
+		"id": 2,
+		"time":"6:00pm", 
+		"eventTitle":"Design Track Event", 
+		"description":"Kayak Eco-Tour", 
+		"location": "Shingle Creek",
+		"category":"Design",
+		"track": [1, 2]
+	}
+]

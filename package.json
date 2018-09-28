@@ -1,22 +1,22 @@
 {
-  "name": "pega-app",
-  "version": "1.0.0",
-  "description": "Organizers for PegaWORLD want to create an agenda for the Design Track at the conference. The is a web based solution that addresses the gaps identified from user feedback.",
-  "main": "index.js",
+  "name": "pegasystems",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "jquery": "1.9.1",
+    "popper.js": "1.14.3",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.5"
+  },
+	"homepage" : "http://timcorbette.com/pega",
+
   "scripts": {
-    "test": "pega test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/corbetteweb/pegaapp.git"
-  },
-  "keywords": [
-    "pegaapp"
-  ],
-  "author": "Timothy Corbette",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/corbetteweb/pegaapp/issues"
-  },
-  "homepage": "https://github.com/corbetteweb/pegaapp#readme"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
 }
