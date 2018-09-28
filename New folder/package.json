@@ -1,0 +1,22 @@
+{
+  "name": "pega-app",
+  "version": "1.0.0",
+  "description": "Organizers for PegaWORLD want to create an agenda for the Design Track at the conference. The is a web based solution that addresses the gaps identified from user feedback.",
+  "main": "index.js",
+  "scripts": {
+    "test": "pega test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corbetteweb/pegaapp.git"
+  },
+  "keywords": [
+    "pegaapp"
+  ],
+  "author": "Timothy Corbette",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/corbetteweb/pegaapp/issues"
+  },
+  "homepage": "https://github.com/corbetteweb/pegaapp#readme"
+}
